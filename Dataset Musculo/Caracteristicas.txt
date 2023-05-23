@@ -1,0 +1,97 @@
+Soleo          Imagens
+SC - Animal 1 - 10 
+SC - Animal 2 - 10 
+SC - Animal 5 - 12
+SC - Animal 6 - 12
+SC - Animal 7 - 15
+SC - Animal 8 - 17
+
+SJ1 - Animal 9 - 14
+SJ1 - Animal 10 - 16
+SJ1 - Animal 11 - 11
+SJ1 - Animal 13 - 18
+SJ1 - Animal 15 - 12
+SJ1 - Animal 16 - 13
+
+SJ2 - Animal 18 - 11
+SJ2 - Animal 20 - 10
+SJ2 - Animal 21 - 15
+SJ2 - Animal 22 - 12
+SJ2 - Animal 23 - 12
+SJ2 - Animal 24 - 12
+
+TC - Animal 26 - 12
+TC - Animal 27 - 12
+TC - Animal 28 - 12
+TC - Animal 29 - 13
+TC - Animal 30 - 14
+TC - Animal 31 - 12
+
+TJ1 - Animal 33 - 11
+TJ1 - Animal 36 - 12
+TJ1 - Animal 37 - 14
+TJ1 - Animal 38 - 10
+TJ1 - Animal 39 - 12
+TJ1 - Animal 40 - 12
+
+TJ2 - Animal 42 - 12
+TJ2 - Animal 43 - 12
+TJ2 - Animal 44 - 14
+TJ2 - Animal 45 - 12
+TJ2 - Animal 46 - 12
+TJ2 - Animal 47 - 12
+
+##############################################
+
+Gastrocnemio Imagens
+SC - Animal 1 - 17 
+SC - Animal 2 - 20
+SC - Animal 4 - 12
+SC - Animal 5 - 13
+SC - Animal 7 - 13
+SC - Animal 8 - 13
+
+SJ1 - Animal 9 - 12
+SJ1 - Animal 10 - 12
+SJ1 - Animal 11 - 15
+SJ1 - Animal 12 - 10
+SJ1 - Animal 13 - 15
+SJ1 - Animal 14 - 12
+SJ1 - Animal 15 - 12
+SJ1 - Animal 16 - 15
+
+SJ2 - Animal 18 - 16
+SJ2 - Animal 19 - 16
+SJ2 - Animal 20 - 12
+SJ2 - Animal 21 - 15
+SJ2 - Animal 22 - 18
+SJ2 - Animal 23 - 16
+
+TC - Animal 25 - 15
+TC - Animal 26 - 12
+TC - Animal 27 - 15
+TC - Animal 28 - 12
+TC - Animal 30 - 20
+TC - Animal 31 - 15
+TC - Animal 32 - 15
+
+TJ1 - Animal 33 - 15
+TJ1 - Animal 34 - 18
+TJ1 - Animal 35 - 16
+TJ1 - Animal 36 - 12
+TJ1 - Animal 37 - 10
+TJ1 - Animal 38 - 15
+TJ1 - Animal 39 - 15
+TJ1 - Animal 40 - 13
+
+TJ2 - Animal 41 - 15
+TJ2 - Animal 42 - 16
+TJ2 - Animal 43 - 17
+TJ2 - Animal 44 - 15
+TJ2 - Animal 45 - 18
+TJ2 - Animal 46 - 17
+TJ2 - Animal 47 - 16
+TJ2 - Animal 48 - 15
+
+
+########################################
