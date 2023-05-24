@@ -1,4 +1,4 @@
-# Muscle_Dataset
+# MuscleDataset
 If you use this dataset in your paper, please cite this reference: 
 Silva Jr., S. A., Santos, E. O., Carvalho, M. F. T., Flores, F. C., Almeida, F. L. A., Costa, C. E. M., & Costa, Y. M. G. (2023). "Automatic quantitative and morphometric analysis of muscle fibers"
 
