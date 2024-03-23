@@ -1,8 +1,23 @@
 # MuscleDataset
 If you use this dataset in your paper, please cite this reference: 
-Silva Jr., S. A., Santos, E. O., Carvalho, M. F. T., Flores, F. C., Almeida, F. L. A., Costa, C. E. M., & Costa, Y. M. G. (2023). "Automatic quantitative and morphometric analysis of muscle fibers"
+S. A. Da Silva, E. O. Santos, M. F. Carvalho, F. C. Flores, F. L. Almeida,
+C. E. Costa, and Y. M. Costa, “Automatic quantitative and morphometric
+analysis of muscle fibers,” in 2023 30th International Conference on
+Systems, Signals and Image Processing (IWSSIP). IEEE, 2023, pp. 1–5.
 
-Paper accepted by IWSSIP 2023, details are going to be disclosed as the paper is published.
+Bibtex:
+```
+@inproceedings{da2023automatic,
+  title={Automatic quantitative and morphometric analysis of muscle fibers},
+  author={Da Silva, Sergio A and Santos, Eduardo O and Carvalho, Mateus FT and Flores, Franklin C and Almeida, Fernanda LA and Costa, Cec{\'\i}lia EM and Costa, Yandre MG},
+  booktitle={2023 30th International Conference on Systems, Signals and Image Processing (IWSSIP)},
+  pages={1--5},
+  year={2023},
+  organization={IEEE}
+}
+```
+
+Paper accepted by IWSSIP 2023.
 
 # Details
 | Folder | Image Dimension | Number of samples |
